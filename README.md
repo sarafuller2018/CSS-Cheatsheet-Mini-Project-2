@@ -1,5 +1,7 @@
 # CSS Cheatsheet - Mini Project 2
 
+https://sarafuller2018.github.io/CSS-Cheatsheet-Mini-Project-2/ 
+
 ## Description
 
 This webpage was created to be a a cheatsheet for CSS styling. 
